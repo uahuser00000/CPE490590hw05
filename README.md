@@ -40,3 +40,6 @@ The web app can be activated with flask as follows:
 ```
 The generated html can then be entered in the browser and web app can be used. If desired, more example data can be used in the MNIST_samples folder.
 More information can be found on their quickstart guide: (https://flask.palletsprojects.com/en/stable/quickstart/)
+
+# Step 5: Running the Web App
+In the webpage, an image can be uploaded and the "Upload" Button should then be selected. The image preview should then be seen and the "Predict" button can then be selected to view the probabilities and predicted digit. In the lower half of the webpage, example data can also be tested by clicking on their associated button.
