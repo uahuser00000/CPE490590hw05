@@ -24,7 +24,7 @@ Installing uv (https://docs.astral.sh/uv/getting-started/installation/#installat
 requirements.txt can also be referenced for additonal libraries.
 
 # Step 3: Gather required files
-The source code is available in the github ().
+The source code is available in the github (https://github.com/uahuser00000/CPE490590hw05.git).
 It is important to navigate or create an easily accessible directory before activating the web app. 
 
 ```python
