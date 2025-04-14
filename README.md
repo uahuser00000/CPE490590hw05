@@ -38,4 +38,5 @@ The web app can be activated with flask as follows:
 1 flask --app hello run (example)
 2 flask run (if named app.py)
 ```
+The generated html can then be entered in the browser and web app can be used. If desired, more example data can be used in the MNIST_samples folder.
 More information can be found on their quickstart guide: (https://flask.palletsprojects.com/en/stable/quickstart/)
